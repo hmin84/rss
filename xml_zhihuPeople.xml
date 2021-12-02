@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <opml version="1.0">
 	<body>
+		<outline text="冼神San LeiMa" title="冼神San LeiMa" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/SanLeiMa" />
+		<outline text="Chase Chen" title="Chase Chen" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/blackfyre-99" />
+		<outline text="柳桢的笔记本" title="柳桢的笔记本" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/qian-fan-guo-62" />
+		<outline text="宝乐大掌柜" title="宝乐大掌柜" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/bao-le-da-zhang-ju" />
+		<outline text="朱六六" title="朱六六" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/nan-xing-jian-kang-31" />
+		<outline text="AI量化数据之佳" title="AI量化数据之佳" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/qin-ke-12" />
 		<outline text="钟秒分" title="钟秒分" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/zhong-miao-fen-64" />
 		<outline text="孔宪亮" title="孔宪亮" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/kong-xian-liang" />
 		<outline text="HappyPlanner" title="HappyPlanner" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/happyplanner" />
@@ -16,7 +22,6 @@
 		<outline text="维新" title="维新" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/huang-ting-yu-777" />
 		<outline text="是松鼠宽客呀" title="是松鼠宽客呀" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/mu-mu-mu-mu-mu-5-50" />
 		<outline text="虎山行不行" title="虎山行不行" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/asura-3-28" />
-		<outline text="徐欢" title="徐欢" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/feng-xiao-xu-46" />
 		<outline text="Dorian君" title="Dorian君" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/ravenrock" />
 		<outline text="谈判思维" title="谈判思维" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/jack-29-56-17" />
 		<outline text="金尾巴" title="金尾巴" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/jin-wei-ba-32" />
