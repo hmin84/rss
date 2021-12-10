@@ -1,6 +1,32 @@
 <?xml version='1.0' encoding='utf-8'?>
 <opml version="1.0">
 	<body>
+		<outline text="SpongeBob" title="SpongeBob" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/bao-bao-12-67" />
+		<outline text="Arsgratia Artis" title="Arsgratia Artis" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/cedric-yang" />
+		<outline text="鲁晓芙" title="鲁晓芙" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/lu-xiao-fu-77" />
+		<outline text="Chiang" title="Chiang" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/chiang0927" />
+		<outline text="潮玩客" title="潮玩客" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/chaowanke" />
+		<outline text="张亮" title="张亮" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/imike" />
+		<outline text="秋日的思念" title="秋日的思念" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/yy-chen-76-84" />
+		<outline text="连诗路" title="连诗路" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/linelian" />
+		<outline text="钱粮胡同" title="钱粮胡同" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/drpmdb" />
+		<outline text="NERV" title="NERV" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/Nerv01" />
+		<outline text="spoon" title="spoon" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/shangxinyu" />
+		<outline text="南区熊猫" title="南区熊猫" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/nan-qu-xiong-mao" />
+		<outline text="Eason" title="Eason" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/easonsun" />
+		<outline text="Liu Cao" title="Liu Cao" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/tsauliu" />
+		<outline text="徐惟能" title="徐惟能" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/xu-wei-neng" />
+		<outline text="Mu Tian" title="Mu Tian" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/mu-tian-80" />
+		<outline text="王超" title="王超" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/wang-chao-10-28" />
+		<outline text="韩锐" title="韩锐" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/han-rui-101" />
+		<outline text="守正" title="守正" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/ni-da-ye-49-3" />
+		<outline text="Lee Sam" title="Lee Sam" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/lee-sam-60" />
+		<outline text="李望" title="李望" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/li-wang-47-44" />
+		<outline text="朱声尧" title="朱声尧" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/zhushengyao" />
+		<outline text="李大猫" title="李大猫" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/li-da-mao-21-80" />
+		<outline text="桔了个仔" title="桔了个仔" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/huangzhe" />
+		<outline text="Flood Sung" title="Flood Sung" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/flood-sung" />
+		<outline text="Rand Xie" title="Rand Xie" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/randxie" />
 		<outline text="Dr.Chase" title="Dr.Chase" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/chase-68-32" />
 		<outline text="捡到一束光" title="捡到一束光" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/feng-hao-zhe-66" />
 		<outline text="阿巴斯甜" title="阿巴斯甜" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/yue-hyci" />
@@ -386,7 +412,7 @@
 		<outline text="韦昌明" title="韦昌明" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/Changmingwei" />
 		<outline text="starseeker" title="starseeker" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/bruceashbey" />
 		<outline text="用Python的交易员" title="用Python的交易员" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/traderusingpython" />
-		<outline text="吴斗争" title="吴斗争" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/wudouzheng" />
+		<outline text="吴幻想" title="吴幻想" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/wudouzheng" />
 		<outline text="许哲" title="许哲" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/xu-zhe-42" />
 		<outline text="Yupeng" title="Yupeng" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/yupeng-jiang" />
 		<outline text="IPS超低延迟服务" title="IPS超低延迟服务" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/jasonxu2015" />
