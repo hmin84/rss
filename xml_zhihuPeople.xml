@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <opml version="1.0">
 	<body>
+		<outline text="廖雪峰" title="廖雪峰" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/liaoxuefeng" />
 		<outline text="Python与数据挖掘" title="Python与数据挖掘" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/lao-q-84" />
 		<outline text="崔庆才丨静觅" title="崔庆才丨静觅" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/Germey" />
 		<outline text="SpongeBob" title="SpongeBob" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/bao-bao-12-67" />
