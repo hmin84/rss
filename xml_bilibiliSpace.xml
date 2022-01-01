@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <opml version="1.0">
 	<body>
+		<outline text="epcdiy" title="epcdiy" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/12590" />
 		<outline text="蒋七七ChiChan" title="蒋七七ChiChan" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/3403527" />
 		<outline text="星彩她爹讲三国" title="星彩她爹讲三国" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/35528855" />
 		<outline text="数量技术宅" title="数量技术宅" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/635927088" />
@@ -11,6 +12,7 @@
 		<outline text="歌手SamTsui" title="歌手SamTsui" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/544479873" />
 		<outline text="章夏Sean" title="章夏Sean" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/1051456456" />
 		<outline text="NOV姐姐" title="NOV姐姐" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/9448580" />
+		<outline text="雪颖进化论" title="雪颖进化论" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/386364189" />
 		<outline text="CaseyBreves" title="CaseyBreves" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/660038352" />
 		<outline text="边检小花" title="边检小花" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/206123398" />
 	</body>
