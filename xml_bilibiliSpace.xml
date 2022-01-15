@@ -1,24 +1,33 @@
 <?xml version='1.0' encoding='utf-8'?>
 <opml version="1.0">
 	<body>
+		<outline text="泽华辅一" title="泽华辅一" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/312129507" />
+		<outline text="沙盘上的战争" title="沙盘上的战争" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/612194373" />
+		<outline text="软件研究所" title="软件研究所" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/578074510" />
+		<outline text="五分钟机器学习" title="五分钟机器学习" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/10781175" />
+		<outline text="Python与人工智能" title="Python与人工智能" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/48171647" />
+		<outline text="人工智能与Python" title="人工智能与Python" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/1350253317" />
+		<outline text="TechBeat人工智能社区" title="TechBeat人工智能社区" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/209732435" />
+		<outline text="每天都要机器学习" title="每天都要机器学习" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/106467161" />
+		<outline text="啥都会一点的研究生" title="啥都会一点的研究生" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/46880349" />
+		<outline text="玩机器学习的张北海" title="玩机器学习的张北海" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/17868971" />
+		<outline text="人工智能精品教程库" title="人工智能精品教程库" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/1052734953" />
+		<outline text="Obsidian官方" title="Obsidian官方" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/1677887853" />
+		<outline text="风尘噗噗啊" title="风尘噗噗啊" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/67214698" />
+		<outline text="是删青啊" title="是删青啊" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/20564108" />
 		<outline text="中南渣渣博士僧N多" title="中南渣渣博士僧N多" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/694438018" />
 		<outline text="大祥哥来了" title="大祥哥来了" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/2920960" />
 		<outline text="二次元的中科院物理所" title="二次元的中科院物理所" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/407045223" />
 		<outline text="老蒋巨靠谱" title="老蒋巨靠谱" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/119801456" />
 		<outline text="epcdiy" title="epcdiy" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/12590" />
+		<outline text="deeplearning_ai" title="deeplearning_ai" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/1065788740" />
 		<outline text="蒋七七ChiChan" title="蒋七七ChiChan" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/3403527" />
 		<outline text="星彩她爹讲三国" title="星彩她爹讲三国" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/35528855" />
 		<outline text="数量技术宅" title="数量技术宅" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/635927088" />
-		<outline text="即凉" title="即凉" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/628098275" />
 		<outline text="跟李沐学AI" title="跟李沐学AI" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/1567748478" />
 		<outline text="静哔哔哔哔" title="静哔哔哔哔" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/501271968" />
-		<outline text="林一的小酥" title="林一的小酥" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/1469294562" />
-		<outline text="歌手SamTsui" title="歌手SamTsui" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/544479873" />
 		<outline text="章夏Sean" title="章夏Sean" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/1051456456" />
 		<outline text="MayTree五月树" title="MayTree五月树" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/1468951948" />
-		<outline text="NOV姐姐" title="NOV姐姐" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/9448580" />
 		<outline text="雪颖进化论" title="雪颖进化论" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/386364189" />
-		<outline text="CaseyBreves" title="CaseyBreves" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/660038352" />
-		<outline text="边检小花" title="边检小花" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/206123398" />
 	</body>
 </opml>
