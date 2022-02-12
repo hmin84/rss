@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <opml version="1.0">
 	<body>
+		<outline text="藏巧守拙" title="藏巧守拙" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/azhu-di" />
+		<outline text="王树义" title="王树义" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/wang-shu-yi-11" />
+		<outline text="砍手豪" title="砍手豪" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/kan-shou-hao" />
+		<outline text="Odysseus" title="Odysseus" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/vinnesota" />
+		<outline text="中石" title="中石" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/dong-xiang-lei-54" />
 		<outline text="Charlie" title="Charlie" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/charles-58-59-65" />
 		<outline text="小约翰" title="小约翰" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/lu-chen-xi-9-98" />
 		<outline text="保贝说保" title="保贝说保" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/bao-bei-shuo-bao" />
