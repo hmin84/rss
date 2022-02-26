@@ -2,7 +2,6 @@
 <opml version="1.0">
 	<body>
 		<outline text="我叫田田__" title="我叫田田__" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/264449046" />
-		<outline text="泽华辅一" title="泽华辅一" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/312129507" />
 		<outline text="沙盘上的战争" title="沙盘上的战争" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/612194373" />
 		<outline text="软件研究所" title="软件研究所" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/578074510" />
 		<outline text="五分钟机器学习" title="五分钟机器学习" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/10781175" />
@@ -28,7 +27,6 @@
 		<outline text="跟李沐学AI" title="跟李沐学AI" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/1567748478" />
 		<outline text="静哔哔哔哔" title="静哔哔哔哔" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/501271968" />
 		<outline text="章夏Sean" title="章夏Sean" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/1051456456" />
-		<outline text="MayTree五月树" title="MayTree五月树" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/1468951948" />
 		<outline text="雪颖进化论" title="雪颖进化论" type="rss" xmlUrl="http://111.229.25.210:1200/bilibili/user/dynamic/386364189" />
 	</body>
 </opml>

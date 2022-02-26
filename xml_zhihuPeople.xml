@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <opml version="1.0">
 	<body>
+		<outline text="穆文" title="穆文" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/DataTerminatorX" />
+		<outline text="健身快乐每一天" title="健身快乐每一天" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/2021xia-di-yi-chang-xue-hou" />
+		<outline text="deephub" title="deephub" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/deephub" />
 		<outline text="藏巧守拙" title="藏巧守拙" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/azhu-di" />
 		<outline text="王树义" title="王树义" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/wang-shu-yi-11" />
-		<outline text="砍手豪" title="砍手豪" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/kan-shou-hao" />
 		<outline text="Odysseus" title="Odysseus" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/vinnesota" />
 		<outline text="中石" title="中石" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/dong-xiang-lei-54" />
 		<outline text="Charlie" title="Charlie" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/charles-58-59-65" />
 		<outline text="小约翰" title="小约翰" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/lu-chen-xi-9-98" />
 		<outline text="保贝说保" title="保贝说保" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/bao-bei-shuo-bao" />
 		<outline text="陈子杨Dr.outside" title="陈子杨Dr.outside" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/chen-zi-yang-7" />
+		<outline text="AllinBon" title="AllinBon" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/kio-mis" />
 		<outline text="廖雪峰" title="廖雪峰" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/liaoxuefeng" />
 		<outline text="Python与数据挖掘" title="Python与数据挖掘" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/lao-q-84" />
 		<outline text="崔庆才丨静觅" title="崔庆才丨静觅" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/Germey" />
@@ -57,7 +60,7 @@
 		<outline text="脑科学世界" title="脑科学世界" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/cai-guo-hong-80" />
 		<outline text="YJango" title="YJango" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/YJango" />
 		<outline text="小Lin说" title="小Lin说" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/lindsayzou" />
-		<outline text="给我一个镜头" title="给我一个镜头" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/nian-qing-ren-bie-lang-78" />
+		<outline text="给我一个镜头V" title="给我一个镜头V" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/nian-qing-ren-bie-lang-78" />
 		<outline text="trader依旧" title="trader依旧" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/guo-ming-tao-67" />
 		<outline text="quantkoala" title="quantkoala" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/quantkoala" />
 		<outline text="邢不行" title="邢不行" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/xing_buxing" />
@@ -75,7 +78,6 @@
 		<outline text="二点三西格玛" title="二点三西格玛" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/myzhihu-19" />
 		<outline text="cxysdfz" title="cxysdfz" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/cxysdfz" />
 		<outline text="戴维" title="戴维" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/dai-wei-74-10" />
-		<outline text="古筝圈小透明" title="古筝圈小透明" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/shi-zun-de-miao-jian-lun" />
 		<outline text="Amusi" title="Amusi" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/amusi1994" />
 		<outline text="崧明" title="崧明" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/trisong" />
 		<outline text="小心假设" title="小心假设" type="rss" xmlUrl="http://111.229.25.210:1200/zhihu/people/activities/jiashe" />
